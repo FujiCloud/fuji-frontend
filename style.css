@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-image: -webkit-linear-gradient(55deg, #212a5e 65%, #2e3b84 65%), -webkit-linear-gradient(125deg, #2e3b84 35%, #212a5e 35%);
+    background-size: 100% 100vh, 100% 100vh;
+    background-position: 0 0, 0 100vh;
+    background-repeat: no-repeat, no-repeat;
+}
+
+#content {
+    background: #eee;
+    color: #333;
+    border-radius: 4px;
+    margin: 20vh auto;
+    padding: 32px;
+    max-width: 960px;
+    min-height: 1200px;
+}
