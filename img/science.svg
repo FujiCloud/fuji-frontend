@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="path-1" d="M2,0h-2"></path>
+    </defs>
+    <g fill="none" stroke="#2e3b84" stroke-linejoin="round" stroke-width="1">
+        <path d="M0.48,15.854c-0.428,0.61 -0.48,1.408 -0.136,2.07c0.345,0.661 1.029,1.076 1.775,1.076h11.316c0.746,0 1.43,-0.415 1.774,-1.076c0.345,-0.662 0.292,-1.46 -0.136,-2.07l-4.796,-7.854v-8h-5v8l-4.797,7.854Z" transform="translate(4.223, 3.5)"></path>
+        <path d="M9,1c0,0.553 -0.447,1 -1,1h-7c-0.553,0 -1,-0.447 -1,-1c0,-0.553 0.447,-1 1,-1h7c0.553,0 1,0.447 1,1Z" transform="translate(7.5, 1.5)"></path>
+        <use stroke-linecap="round" transform="translate(12.5, 5.5)" xlink:href="#path-1"></use>
+        <use stroke-linecap="round" transform="translate(12.5, 9.5)" xlink:href="#path-1"></use>
+        <path stroke-linecap="round" d="M3,0h-3" transform="translate(11.5, 7.5)"></path>
+        <path d="M0,0h10" transform="translate(7, 15.5)"></path>
+        <path stroke-linecap="round" d="M0.902369,0.195262c0.195262,0.195262 0.195262,0.511845 0,0.707107c-0.195262,0.195262 -0.511845,0.195262 -0.707107,0c-0.195262,-0.195262 -0.195262,-0.511845 0,-0.707107c0.195262,-0.195262 0.511845,-0.195262 0.707107,0" transform="translate(14.9512, 19.9512)"></path>
+        <path stroke-linecap="round" d="M0.451184,0.0976311c0.0976311,0.0976311 0.0976311,0.255922 0,0.353553c-0.0976311,0.0976311 -0.255922,0.0976311 -0.353553,0c-0.0976311,-0.0976311 -0.0976311,-0.255922 0,-0.353553c0.0976311,-0.0976311 0.255922,-0.0976311 0.353553,0" transform="translate(12.9756, 17.4756)"></path>
+        <path stroke-linecap="round" d="M2.70711,0.585786c0.585786,0.585786 0.585786,1.53553 0,2.12132c-0.585786,0.585786 -1.53553,0.585786 -2.12132,0c-0.585786,-0.585786 -0.585786,-1.53553 0,-2.12132c0.585786,-0.585786 1.53553,-0.585786 2.12132,0" transform="translate(7.85355, 17.3536)"></path>
+    </g>
+    <path fill="none" d="M0,0h24v24h-24Z"></path>
+</svg>

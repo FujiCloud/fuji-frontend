@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="path-1" d="M6,2l-3,2l-3,-2l3,-2Z"></path>
+    </defs>
+    <g fill="none" stroke="#2e3b84" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <path d="M6,0v8.907l-3,2.093l-3,-2.093v-8.907" transform="translate(0.5, 12.5)"></path>
+        <use transform="translate(0.5, 10.5)" xlink:href="#path-1"></use>
+        <path d="M0,0v9" transform="translate(3.5, 14.5)"></path>
+        <path d="M6,0v13.907l-3,2.093l-3,-2.093v-13.907" transform="translate(8.5, 7.5)"></path>
+        <use transform="translate(8.5, 5.5)" xlink:href="#path-1"></use>
+        <path d="M0,0v14" transform="translate(11.5, 9.5)"></path>
+        <path d="M6,0v18.907l-3,2.093l-3,-2.093v-18.907" transform="translate(16.5, 2.5)"></path>
+        <use transform="translate(16.5, 0.5)" xlink:href="#path-1"></use>
+        <path d="M0,0v19" transform="translate(19.5, 4.5)"></path>
+    </g>
+    <path fill="none" d="M0,0h24v24h-24Z"></path>
+</svg>
